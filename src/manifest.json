@@ -1,6 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Extension with React & Webpack",
+  "name": "Jira improvement",
+  "version": "0.1.0",
+  "description": "A Chrome extension to improve Jira information",
   "options_page": "options.html",
   "background": { "service_worker": "background.bundle.js" },
   "action": {
